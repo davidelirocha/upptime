@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites :
   - nome : Google DNS 1 
     verifique : "tcp-ping" 
-    URL : 8.8.4.4
+    URL : $ITN_SERRA_LESTE_COELHO_TELECOM
     porta : 53 
   - nome : Google DNS 2 
     verifique : "tcp-ping" 
