@@ -3,7 +3,7 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites :
-  - nome : Google DNS 1 
+  - nome : Serra Leste
     verifique : "tcp-ping" 
     URL : $ITN_SERRA_LESTE_COELHO_TELECOM
     porta : 53 
